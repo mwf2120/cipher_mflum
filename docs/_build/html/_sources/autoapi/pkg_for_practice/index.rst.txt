@@ -1,0 +1,23 @@
+:py:mod:`pkg_for_practice`
+==========================
+
+.. py:module:: pkg_for_practice
+
+
+Submodules
+----------
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+
+   pkg_for_practice/index.rst
+
+
+Package Contents
+----------------
+
+.. py:data:: __version__
+   
+
+   
+
